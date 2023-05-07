@@ -1,3 +1,8 @@
+Self study clone from https://github.com/mayooear/notion-chat-langchain
+
+================================================================================================================================
+
+
 # A ChatBot for Your Notion Knowledge Base
 
 Create a simple chatbot for question-answering your Notion knowledge base/docs using Openai, Typescript, LangChain and Pinecone.
